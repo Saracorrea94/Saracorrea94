@@ -20,7 +20,7 @@ Mi enfoque está en asegurar la calidad del software desde una perspectiva centr
 
 **Urban Scooter**  
 **Herramientas utilizadas**: Selenium, Pytest, Postman, Android Studio, Emulador Android, Chrome DevTools, SQL, Figma  
-**Resumen**: Proyecto educativo integral sobre una app móvil. Se realizaron pruebas manuales, automatizadas y de API. Se trabajó con emuladores Android, Postman, base de datos en servidor remoto y automatización con Selenium + Pytest desde PyCharm. También se validaron los diseños originales en Figma.
+**Resumen**: Se realizaron pruebas manuales, automatizadas y de API. Se trabajó con emuladores Android, Postman, base de datos en servidor remoto y automatización con Selenium + Pytest desde PyCharm. También se validaron los diseños originales en Figma.
 
 **Urban Routes Test Automation**  
 **Herramientas utilizadas**: Selenium, Pytest, Python, PyCharm, ChromeDriver, Figma  

@@ -19,15 +19,15 @@ Mi enfoque está en asegurar la calidad del software desde una perspectiva centr
 ### 📊 Proyectos destacados
 
 **Urban Scooter**  
-**Herramientas utilizadas**: Postman, Android Studio (con emulador), Chrome DevTools, SQL, Figma  
+**Herramientas utilizadas**: Postman · SQL · Android Studio · Figma · JIRA · Git · GitHub.
 **Resumen**: Proyecto de pruebas manuales en aplicaciones web y móviles, incluyendo validación de formularios, navegación y notificaciones. Se realizaron pruebas funcionales y de API usando Postman y consultas SQL a base de datos remota. Además, se verificó la consistencia visual con los diseños en Figma.
 
 **Urban Routes Test Automation**  
-**Herramientas utilizadas**: Selenium, Pytest, Python, PyCharm, ChromeDriver, Figma  
+**Herramientas utilizadas**: Selenium, Pytest, Python, PyCharm, Figma, Chrome DevTools, JIRA, Git, GitHub.  
 **Resumen**: Automatización de pruebas end-to-end para el flujo completo de solicitud de taxi. Se aplicó el patrón Page Object Model (POM) con Pytest desde PyCharm. También se verificó que la interfaz coincidiera con los diseños creados en Figma.
 
 **Urban Grocers**  
-**Herramientas utilizadas**: Postman, SQL, Servidor Remoto  
+**Herramientas utilizadas**: Postman, SQL, JIRA, Git, GitHub, Servidores remotos.
 **Resumen**: Validación de la API de una plataforma e-commerce. Se ejecutaron pruebas sobre los principales endpoints, incluyendo consultas y manejo de errores. Se realizaron validaciones cruzadas con base de datos mediante un servidor remoto.
 
 **Urban Lunch**  
